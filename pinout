@@ -1,0 +1,20 @@
+Monkeybrains tripp lite Powerverter APS model Remote control module connector model APSRM4
+The charge only setting allows your batteries to return to full charge faster by turning off the inverter which halts battery discharging. The "DC off" setting de-energizes the unit and connects the AC out to AC in.
+
+Inverter remote RJ45 plug
+	measurement			actual	label
+1 same as plus of battery		+12v	(common + for all LEDs)
+2 10.77 volts AC off/11.7 on		:LED6	heavy load
+3 0.66 volts                            :LED1	battery charge high
+4 10.77 volts AC off/11.7 on            :LED3	battery charge low
+5 10.65 volts AC off                    :LED2	battery charge medium
+6 10.56 volts AC off/0.67 on            :LED4	line charge only
+7 same as minus of 12v battery 0v       :Switch	"auto invert / line charging only"
+8 0.66 volts AC off/11.7 on             :LED5	inverting
+
+https://tripplite.eaton.com/remote-control-module-tripp-lite-powerverter-inverters-inverter-chargers~APSRM4
+https://www.roadtreklife.net/2014/01/illuminated-remote-switches-for-patio.html
+https://2.bp.blogspot.com/-lR7pQmjIkMk/VmIc_7EK2WI/AAAAAAAABHA/dTBBmpgyS34/s1600/RJ45-pinouts.jpg
+
+https://www.reddit.com/r/diyelectronics/comments/yf81ov/tripp_lite_inverter_diy_remote_switch/
+"He said that shorting pins 1 and 7 would activate the inverter"
